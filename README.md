@@ -1,6 +1,6 @@
 # 宝可梦-花宇之魂
 
-这是用* [**pokeemerald**](https://github.com/pret/pokered)反编译源码改版的花宇之魂&远古禁卫项目。
+这是用[**pokeemerald**](https://github.com/pret/pokered)反编译源码改版的花宇之魂&远古禁卫项目。
 生成BUILD请参考[INSTALL.md](INSTALL.md).
 
 
