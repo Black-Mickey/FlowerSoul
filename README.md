@@ -19,7 +19,3 @@
 * [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs)
 * [**Pokémon FireRed and LeafGreen**](https://github.com/pret/pokefirered)
 * [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red)
-
-
-## Contacts
-
